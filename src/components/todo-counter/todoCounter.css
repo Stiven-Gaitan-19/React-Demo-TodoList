@@ -1,0 +1,10 @@
+.counter{   
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin: 10px 20px;
+}
+
+.counter_loading{
+    color: rgb(211, 211, 211);
+}
